@@ -67,3 +67,11 @@ if __name__ == '__main__':
     df = pd.read_csv('csv/films_full.csv')
     df = df.drop(['Unnamed: 0','url'], axis=1)
     db.to_sql(df, 'films')
+
+UPDATE characters
+SET mass = ‘1358’
+WHERE mass = ‘1,358’
+;
+ALTER TABLE characters
+MODIFY mass float;
+commit;

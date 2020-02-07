@@ -1,0 +1,38 @@
+,name,model,manufacturer,cost_in_credits,length,max_atmosphering_speed,crew,passengers,cargo_capacity,consumables,hyperdrive_rating,MGLT,starship_class,people_capacity,cost_per_person
+0,Executor,Executor-class star dreadnought,"Kuat Drive Yards, Fondor Shipyards",1143350000.0,19000,,279144.0,38000.0,250000000.0,6 years,2.0,40.0,Star dreadnought,317144.0,3605.1446661453474
+1,Sentinel-class landing craft,Sentinel-class landing craft,"Sienar Fleet Systems, Cyngus Spaceworks",240000.0,38,1000,5.0,75.0,180000.0,1 month,1.0,70.0,landing craft,80.0,3000.0
+2,Death Star,DS-1 Orbital Battle Station,"Imperial Department of Military Research, Sienar Fleet Systems",1000000000000.0,120000,,342953.0,843342.0,1000000000000.0,3 years,4.0,10.0,Deep Space Mobile Battlestation,1186295.0,842960.6463822237
+3,Millennium Falcon,YT-1300 light freighter,Corellian Engineering Corporation,100000.0,34.37,1050,4.0,6.0,100000.0,2 months,0.5,75.0,Light freighter,10.0,10000.0
+4,Y-wing,BTL Y-wing,Koensayr Manufacturing,134999.0,14,1000km,2.0,0.0,110.0,1 week,1.0,80.0,assault starfighter,2.0,67499.5
+5,X-wing,T-65 X-wing,Incom Corporation,149999.0,12.5,1050,1.0,0.0,110.0,1 week,1.0,100.0,Starfighter,1.0,149999.0
+6,TIE Advanced x1,Twin Ion Engine Advanced x1,Sienar Fleet Systems,,9.2,1200,1.0,0.0,150.0,5 days,1.0,105.0,Starfighter,1.0,
+7,Slave 1,Firespray-31-class patrol and attack,Kuat Systems Engineering,,21.5,1000,1.0,6.0,70000.0,1 month,3.0,70.0,Patrol craft,7.0,
+8,Imperial shuttle,Lambda-class T-4a shuttle,Sienar Fleet Systems,240000.0,20,850,6.0,20.0,80000.0,2 months,1.0,50.0,Armed government transport,26.0,9230.76923076923
+9,EF76 Nebulon-B escort frigate,EF76 Nebulon-B escort frigate,Kuat Drive Yards,8500000.0,300,800,854.0,75.0,6000000.0,2 years,2.0,40.0,Escort ship,929.0,9149.623250807319
+10,Calamari Cruiser,MC80 Liberty type Star Cruiser,Mon Calamari shipyards,104000000.0,1200,,5400.0,1200.0,,2 years,1.0,60.0,Star Cruiser,6600.0,15757.575757575758
+11,A-wing,RZ-1 A-wing Interceptor,"Alliance Underground Engineering, Incom Corporation",175000.0,9.6,1300,1.0,0.0,40.0,1 week,1.0,120.0,Starfighter,1.0,175000.0
+12,B-wing,A/SF-01 B-wing starfighter,Slayn & Korpil,220000.0,16.9,950,1.0,0.0,45.0,1 week,2.0,91.0,Assault Starfighter,1.0,220000.0
+13,Republic Cruiser,Consular-class cruiser,Corellian Engineering Corporation,,115,900,9.0,16.0,,,2.0,,Space cruiser,25.0,
+14,Naboo fighter,N-1 starfighter,Theed Palace Space Vessel Engineering Corps,200000.0,11,1100,1.0,0.0,65.0,7 days,1.0,,Starfighter,1.0,200000.0
+15,Naboo Royal Starship,J-type 327 Nubian royal starship,"Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",,76,920,8.0,,,,1.8,,yacht,,
+16,Scimitar,Star Courier,Republic Sienar Systems,55000000.0,26.5,1180,1.0,6.0,2500000.0,30 days,1.5,,Space Transport,7.0,7857142.857142857
+17,J-type diplomatic barge,J-type diplomatic barge,"Theed Palace Space Vessel Engineering Corps, Nubia Star Drives",2000000.0,39,2000,5.0,10.0,,1 year,0.7,,Diplomatic barge,15.0,133333.33333333334
+18,AA-9 Coruscant freighter,Botajef AA-9 Freighter-Liner,Botajef Shipyards,,390,,,30000.0,,,,,freighter,,
+19,Jedi starfighter,Delta-7 Aethersprite-class interceptor,Kuat Systems Engineering,180000.0,8,1150,1.0,0.0,60.0,7 days,1.0,,Starfighter,1.0,180000.0
+20,H-type Nubian yacht,H-type Nubian yacht,Theed Palace Space Vessel Engineering Corps,,47.9,8000,4.0,,,,0.9,,yacht,,
+21,Star Destroyer,Imperial I-class Star Destroyer,Kuat Drive Yards,150000000.0,"1,600",975,47060.0,0.0,36000000.0,2 years,2.0,60.0,Star Destroyer,47060.0,3187.4203144921375
+22,Trade Federation cruiser,Providence-class carrier/destroyer,"Rendili StarDrive, Free Dac Volunteers Engineering corps.",125000000.0,1088,1050,600.0,48247.0,50000000.0,4 years,1.5,,capital ship,48847.0,2559.0107887894856
+23,Theta-class T-2c shuttle,Theta-class T-2c shuttle,Cygnus Spaceworks,1000000.0,18.5,2000,5.0,16.0,50000.0,56 days,1.0,,transport,21.0,47619.04761904762
+24,T-70 X-wing fighter,T-70 X-wing fighter,Incom,,,,1.0,,,,,,fighter,,
+25,Rebel transport,GR-75 medium transport,"Gallofree Yards, Inc.",,90,650,6.0,90.0,19000000.0,6 months,4.0,20.0,Medium transport,96.0,
+26,Droid control ship,Lucrehulk-class Droid Control Ship,"Hoersch-Kessel Drive, Inc.",,3170,,175.0,139000.0,4000000000.0,500 days,2.0,,Droid control ship,139175.0,
+27,Republic Assault ship,Acclamator I-class assault ship,Rothana Heavy Engineering,,752,,700.0,16000.0,11250000.0,2 years,0.6,,assault ship,16700.0,
+28,Solar Sailer,Punworcca 116-class interstellar sloop,Huppla Pasa Tisc Shipwrights Collective,35700.0,15.2,1600,3.0,11.0,240.0,7 days,1.5,,yacht,14.0,2550.0
+29,Republic attack cruiser,Senator-class Star Destroyer,"Kuat Drive Yards, Allanteen Six shipyards",59000000.0,1137,975,7400.0,2000.0,20000000.0,2 years,1.0,,star destroyer,9400.0,6276.595744680851
+30,Naboo star skiff,J-type star skiff,"Theed Palace Space Vessel Engineering Corps/Nubia Star Drives, Incorporated",,29.2,1050,3.0,3.0,,,0.5,,yacht,6.0,
+31,Jedi Interceptor,Eta-2 Actis-class light interceptor,Kuat Systems Engineering,320000.0,5.47,1500,1.0,0.0,60.0,2 days,1.0,,starfighter,1.0,320000.0
+32,arc-170,Aggressive Reconnaissance-170 starfighte,"Incom Corporation, Subpro Corporation",155000.0,14.5,1000,3.0,0.0,110.0,5 days,1.0,100.0,starfighter,3.0,51666.666666666664
+33,Belbullab-22 starfighter,Belbullab-22 starfighter,Feethan Ottraw Scalable Assemblies,168000.0,6.71,1100,1.0,0.0,140.0,7 days,6.0,,starfighter,1.0,168000.0
+34,V-wing,Alpha-3 Nimbus-class V-wing starfighter,Kuat Systems Engineering,102500.0,7.9,1050,1.0,0.0,60.0,15 hours,1.0,,starfighter,1.0,102500.0
+35,CR90 corvette,CR90 corvette,Corellian Engineering Corporation,3500000.0,150,950,165.0,600.0,3000000.0,1 year,2.0,60.0,corvette,765.0,4575.16339869281
+36,Banking clan frigate,Munificent-class star frigate,"Hoersch-Kessel Drive, Inc, Gwori Revolutionary Industries",57000000.0,825,,200.0,,40000000.0,2 years,1.0,,cruiser,,
